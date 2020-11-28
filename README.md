@@ -1,2 +1,8 @@
 # 식단일기
-![logo2](https://user-images.githubusercontent.com/75155066/100526034-bef84180-3208-11eb-9c0b-942d7975f6e0.png)
+<img width="800" src="https://user-images.githubusercontent.com/75155066/100526034-bef84180-3208-11eb-9c0b-942d7975f6e0.png">
+
+## 개요
+- 자신이 먹은 음식의 영양소를 직접 기재할 수 있는 어플
+
+## 진행 상황
+- 개인정보(키, 몸무게, 나이, 성별, 주당 운동량)를 입력 받아 체형 분석 및 권장 칼로리/탄단지 비율을 추천해주는 단계까지 완성
