@@ -1,8 +1,6 @@
 # 식단일기
-<div>
 <img width="800" src="https://user-images.githubusercontent.com/75155066/100526034-bef84180-3208-11eb-9c0b-942d7975f6e0.png">
 <img width="100" src="https://user-images.githubusercontent.com/75155066/100526441-54e19b80-320c-11eb-9df4-7741d3940a69.jpg">
-</div>
 
 ## 개요
 - 추천해주는 총 칼로리와 탄단지 비율에 맞춰 자신이 먹은 음식의 영양소를 직접 기재할 수 있는 어플
